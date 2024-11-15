@@ -1,0 +1,23 @@
+## Házi feladatok
+- [[1. HF - Taylor polinom.pdf]]
+- [[2. HF - Fourier sor.pdf]]
+- [[3. HF - Fourier sor.pdf]]
+- [[4. HF.pdf]]
+- [[5. HF.pdf]]
+- [[6. HF.pdf]]
+- [[7. HF.pdf]]
+- [[8. HF.pdf]]
+- [[9. HF.pdf]]
+- [[10. HF.pdf]]
+## [[02/anal2/ZHk|ZHk]]
+## Előadások
+## [[Gyakorlatok|Gyakorlatok]]
+## Hasznos könyvek
+- [[Advanced Engineering Mathematics - Erwin Kreyszig (2011).pdf]]
+- [[Differenciálszámítás - Bárczy Barnabás (1994).pdf]]
+- [[Integrálszámítás - Bárczy Barnabás (1992).pdf]]
+- [[Intro. to Calculus and Analysis vol. 1 - Richard Courant (1965).pdf]]
+- [[Intro. to Calculus and Analysis vol. 2 - Richard Courant (1989).pdf]]
+- [[James Stewart Calculus (2016).pdf]]
+- [[Matematikai Analízis - B. P. Gyemidovics. (2010).pdf]]
+- [[Thomas Calculus (2013).pdf]]

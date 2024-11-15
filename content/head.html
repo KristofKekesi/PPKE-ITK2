@@ -1,0 +1,24 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-13TMNMYKGE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-13TMNMYKGE');
+</script>
+
+<script>
+	var lastMod = null;
+	fetch("https://users.itk.ppke.hu/~kekkr/").then(r => {
+		lastMod = r.headers.get('Last-Modified');
+		if (lastMod) {
+			document.getElementById("gitops-date").innerHTML = lastMod;
+		} else {
+			document.getElementById("gitops-date").innerHTML = "No Last-Modified header found";
+		}
+	}).catch(error => {
+		console.error("Error fetching:", error);
+		document.getElementById("gitops-date").innerHTML = "Error fetching date";
+	});
+</script>

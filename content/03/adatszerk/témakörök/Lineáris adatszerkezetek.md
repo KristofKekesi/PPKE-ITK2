@@ -1,0 +1,6 @@
+---
+tags:
+  - elmélet
+---
+![[Verem]]
+![[Sor]]

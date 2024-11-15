@@ -1,0 +1,57 @@
+#### 1. ZH témakörök
+- [[Homogén Lineáris leképezés]]ek
+- [[Sajátérték, sajátvektor, sajátaltér|Képtér, magtér, sajátérték, sajátvektor (sajátaltér) ]]
+- meghatározása a leképezési szabály alkalmazásával,
+- Homogén lineáris leképezések mátrixa,
+- Képtér, magtér, sajátérték, sajátvektor (sajátaltér) meghatározása a leképezési mátrixával,  
+- Sajátértékek algebrai és geometriai multiplicitása,
+- Dimenziótétel,
+- Bázistranszformáció (TAS, SAS),
+- Diagonalizáció, hasonló mátrixok.
+- Komplex számok algebrai alakja. Ábrázolás a komplex számsíkon.  
+- Komplex számok összege, különbsége, szorzata, hányadosa, konjugáltja. "Egyszerű" egyenletek megoldása (pl. 𝑧⎯⎯⎯=𝑧2 )
+- Komplex együtthatós egyenletrendszerek megoldása Gauss-, Gauss-Jordan eliminációval.
+- Trigonometrikus alak, szorzás, osztás, hatványozás, gyökvonás.
+- Exponenciális alak, szorzás, osztás, hatványozás, gyökvonás.
+- Átváltás a komplex szám alakjai között.
+- Egységgyökök, primitív egységgyökök meghatározása.
+- Másodfokú megoldóképlet álatlánosítása komplex számokra.  
+- Algebra alaptétele, valós és komplex együtthatós polinomok gyökei, komplex konjugált tétel.
+#### 2. ZH témakörök
+Elsőrendű logika
+- Világ leírása elsőrendű logikában (univerzum, relációk, függvények)
+- Kvantorok (univerzális, egzisztenciális)
+- Szintaxis, jelkészlet, formulaképzés szabályai
+- Formalizálás, interpretáció, kiértékelés
+- Érvényes formula
+- Kielégíthető formula, kontradikció
+- Ekvivalens formulák
+- Logikai következmény  
+- Skólem normálforma
+- Egységesítő helyettesítés  
+- Elsőrendű rezolúció ($\alpha≠\beta\Leftrightarrow\alpha\rightarrow\beta\equiv1\Leftrightarrow\alpha\land\neg\beta\equiv0$)
+[[Relációk]]
+- Halmazok Descartes (direkt) szorzata
+- Bináris reláció lehetséges tulajdonságai: reflexív, szimmetrikus, antiszimmetrikus, tranzitív
+- Ekvivalencia reláció, partíció
+- Parciális/részben rendezési reláció
+- Teljes rendezési reláció
+- Hasse-diagram
+- Legnagyobb, legkisebb, minimális, maximális elemek
+- Felső korlát, alsó korlát, supremum, infimum
+Gráfok
+- Gráfok típusai (egyszerű, irányított, multigráf, pszeudográf),
+- Fokszámsorozat,
+- Izomorf gráfok,
+- Út, kör,
+- [Euler út, kör, vonatkozó tételek](https://www.youtube.com/watch?v=SgQ2zhTgluA),
+- [Hamilton út, kör](https://www.youtube.com/watch?v=tQk59WYioPU)
+- [Kruskal](https://www.youtube.com/watch?v=nzoIUq1tey4), Prim algoritmus
+- [Szélességi](https://www.youtube.com/watch?v=Fm4yClhavzM), [mélységi keresés](https://www.youtube.com/watch?v=2I4RB6nmvs0)
+- Dijkstra algoritmus
+- Fa, Prüfer kód
+- Irányított súlyozott hálózatok: maximális folyam, minimális vágás
+- Homeomorf gráfok
+- Síkbarajzolható gráfok, Kuratowski-tétel
+- [[Gráf színezés.pdf|Gráfok színezése]], kromatikus száma
+- Alsó és felső becslések kromatikus számra

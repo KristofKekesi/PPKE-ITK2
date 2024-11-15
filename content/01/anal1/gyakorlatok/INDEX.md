@@ -1,0 +1,3 @@
+- [[November 21. - Parciális integrálás]]
+- [[November 24. - Improprius integrálok]]
+- [[December 1. - Inhomogén differenciálegyenlet]]
