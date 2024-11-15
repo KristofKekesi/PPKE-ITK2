@@ -9,13 +9,15 @@ tags:
 ## Számtani közép
 $$A=\frac{\sum_{k=1}^{n}{a_k}}{n}=\frac{\sum_{k=1}^{n}{a_k}}{\sum_{k=1}^{n}{1}}$$
 ## Integrálközép [^2]
-Jele: $\kappa\quad\text{(kappa)}$
+**Jele**: $\kappa\quad\text{(kappa)}$
+
 Adott $f:[a,b]\to R$  integrálható függvénynek az integrálközepe $\kappa$ szám, ha
 $$\kappa=\frac{\int_a^b{f(x)dx}}{b-a}.$$
-**Állítás**:
-Tegyük fel, $m\leq f(x)\leq M\quad\forall x$. Ekkor $m\leq\kappa\leq M$.
-**Következmény**:
-Tegyük fel, $f$ folytonos. Ekkor $\exists\varepsilon\in(a,b)\quad f(\varepsilon)=\kappa$.
+> [!statement] Állítás:
+> Tegyük fel, $m\leq f(x)\leq M\quad\forall x$. Ekkor $m\leq\kappa\leq M$.
+
+> [!result] Következmény:
+> Tegyük fel, $f$ folytonos. Ekkor $\exists\varepsilon\in(a,b)\quad f(\varepsilon)=\kappa$.
 ## Parciális integrálás [^3]
 Legyenek $f,g:[a,b]\to R$, integrálható függvények.
 #### Határozatlan integrálás
@@ -27,7 +29,9 @@ $$\int_a^b{f(x)}dx=\int_a^b{f(\phi)}d\phi$$
 **Informálisan**: $d\phi(t)=\phi'(t)dt$
 #### Helyettesítés integrálban [^1]
 $f:[a,b]\to R$ integrálható
+
 $\phi:[\alpha,\beta]\to[a,b]$ differenciálható, szigorúan monoton
+
 **Ekkor**:
 $$\int_a^b{f(x)}dx=\int_\alpha^\beta{f\big(\phi(t)\big)\phi'(t)}dt$$
 ## Lokálisan integrálható

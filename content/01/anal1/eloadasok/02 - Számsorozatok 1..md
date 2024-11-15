@@ -37,6 +37,7 @@ Egy olyan hozzárendelés, melyben $\forall n\in\mathbb{N}$ természetes számho
 Az $(a_n)$ sorozat korlátos ha $\exists K$ szám, hogy $|a_n|<K\quad\forall n\in\mathbb{N}$.
 ## Rész-sorozat (index-sorozat) [^2]
 Adott az $(a_n)$ sorozat. Egy rész-sorozatot úgy definiálunk, hogy minden $k\in\mathbb{N}$ számhoz hozzárendelünk egy $n_k$-val jelölt indexet, melyekre igaz hogy szigorúan monoton növekvőek.
+
 A részsorozat elemei $a_{n1}, a_{n2}, a_{n3}, …$ lesznek.
 
 [^1]: [[Analízis 1. (2023).pdf#page=30|Analízis 1. Jegyzet: 24. oldal]]

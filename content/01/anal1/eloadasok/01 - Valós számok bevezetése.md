@@ -45,7 +45,8 @@ Például: $x + y = y + x$.
 - szorzás
 ## Disztributivitás
 Jelentése: műveletek összekapcsolódása.
-Például: $(a + b) \cdot c = (a \cdot c) + (b \cdot c)$.
+
+**Például**: $(a + b) \cdot c = (a \cdot c) + (b \cdot c)$.
 ## Műveleti alaptulajdonságok
 1. Az összeadás [[01 - Valós számok bevezetése#Asszociativitás|asszociatív]]
 2. $x + 0 = x\quad ∀x ∈\mathbb{R}$
@@ -70,6 +71,7 @@ $$I_1=[a_1,b_1],\quad I_2=[a_2,b_2],\quad …,$$
 melyek egymásba skatyujázottak:
 $$I_1\supseteq I_2\supseteq…$$
 akkor az intervallumoknak __van közös pontja__.
+
 **Más szóval**: $∃c ∈\mathbb{R}$ melyre $c ∈ I_k , ∀k ∈\mathbb{N}$
 > [!info] Irracionális számok beletartoznak a racionális számok halmazába
 > A Cantor-axiómát átértelmezve vesszük a "bal oldalt" és a "jobb oldalt".
@@ -110,13 +112,15 @@ ha $\exists K\in\mathbb{R}$ (ez lesz a felső korlát), amire $K\geq x\quad\fora
 ha a halmaz alulról és felülről is korlátos. (Van alsó és felső korlátja is)
 # Supremum
 A halmaz legkisebb felső korlátja.
-Jele: $\sup(H)$.
+
+**Jele**: $\sup(H)$.
 > [!info] Kapcsolata a maximummal
 >  Ha a $H$ halmaznak az elemei közül van legnagyobb, akkor az a supremuma.
 > $$\sup(H) = \max(H)$$
 # Infimum
 A halmaz legnagyobb alsó korlátja.
-Jele: $\inf(H)$.
+
+**Jele**: $\inf(H)$.
 > [!info] Kapcsolata a minimummal
 >  Ha a $H$ halmaznak az elemei közül van legkisebb, akkor az az infimuma.
 > $$\inf(H) = \min(H)$$
@@ -132,7 +136,8 @@ Az $x_0 ∈ R$ pont a H halmaz belső pontja, ha $∃\varepsilon > 0$. Amin $(x_
 Jele: $\text{ext}(H)$ (az angol "exterior" szóból).
 ### Határpont
 Az $x_0 ∈ R$ pont a H halmaz határpontja, ha $∃\varepsilon > 0$. Ha a környezet tartalmaz H-n belüli (Belső pont) és H-n (Külső pont) kívüli pontokat is.
-Jele: $\delta (H)$
+
+**Jele**: $\delta (H)$
 - A halmaz nyílt, ha minden pontja belső pont
 - A halmaz zárt ha $\delta H ⊆ H$
 - A H halmaz lezárása $\overline{H} = H ∪ \delta H$

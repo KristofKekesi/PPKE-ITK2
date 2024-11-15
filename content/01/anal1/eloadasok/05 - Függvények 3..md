@@ -44,9 +44,11 @@ $$c\in[f(a), f(b)]\quad\quad\mathcal{E}\in[a, b]$$
 Az inverz függvény a $c\to\mathcal{E}$ leképezés.
 ## Weierstrass I. tétele [^3]
 Legyen $f: [a, b]\to\mathbb{R}$ függvény folytonos.
+
 **Ekkor az $f$ függvény korlátos.**
 ## Weierstrass II. tétele [^3]
 Legyen $f: [a, b]\to\mathbb{R}$ függvény folytonos.
+
 **Ekkor az $f$ függvény felveszi a minimumát és a maximumát $[a, b]$-ben.**
 ## Nevezetes határértékek [^4]
 $$\lim_{x\to0}{\frac{\sin x}{x}}=1$$

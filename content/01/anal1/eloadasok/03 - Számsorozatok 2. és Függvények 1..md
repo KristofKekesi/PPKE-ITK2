@@ -7,7 +7,10 @@ tags:
 ---
 ## Konvergens [^1]
 Ha tart valahova és a határértéke nem $\infty$ és nem $-\infty$. 
-$|a_n-A| < \varepsilon$, $\forall n > N$. Másként leírva $\lim_{n\to \infty}a_n = A$
+
+$|a_n-A| < \varepsilon$, $\forall n > N$. 
+
+Másként leírva $\lim_{n\to \infty}a_n = A$
 ## Divergens [^1]
 Ha nem konvergens.
 ### Típusai
@@ -22,6 +25,7 @@ Ha nem konvergens.
 > Tekintsünk egy $(a_n)$ korlátos sorozatot. A minden sorozatnak van monoton részsorozata  ([[Analízis 1. (2023).pdf#page=40|2.1]]) tétel szerint van $(a_{n_k})$ monoton részsorozata, amely szintén korlátos. Ezért a részsorozat konvergens is.
 ## Számsorozat határértéke [^1]
 Konyhanyelven: arra vagyunk kíváncsiak, hogy az $n$ növelésével mi történik az $a_n$ számokkal.
+
 Azt mondjuk, hogy az $(a_n)$ sorozat konvergens, és határértéke az $A$ szám, ha ez rendelkezik a következő tulajdonsággal: $\forall\varepsilon>0$-hoz létezik egy $\varepsilon$-tól függő $N\in\mathbb{N}$ küszöbindex, melyre
 $$|a_n-A|<\varepsilon\quad\quad\forall n\geq N.$$
 Ezt így jelöljük:

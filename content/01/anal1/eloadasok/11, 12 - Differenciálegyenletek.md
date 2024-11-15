@@ -23,6 +23,7 @@ $$y'=ay\quad\quad$$
 Olyan egyenlet (=összefüggés), amely
 - megoldása egy függvény,
 - szerepel benne az ismeretlen deriváltja
+
 **Legegyszerűbb differenciálegyenlet**:
 $$y'=f(x)\quad\Rightarrow\quad y=\int{f(x)}dx$$
 Itt $f$ adott függvény.
@@ -58,10 +59,11 @@ Ha $b(x)=0$.
 $$y'=ay$$
 $$y(x)=ce^{A(x)}\quad C\in\mathbb{R};\quad A'(x)=a(x)$$
 
-**Állítás**:
-Ha $y_1$ és $y_2$ növekvő, akkor a homogén lineáris differenciálegyenlet $Z=\alpha Y_1+\beta Y_2$ is növekvő.
-**Tétel**:
-$y'=a(x)y$ egyenlet megoldása vektortér. Ez a vektortér 1D-s.
+> [!statement] Állítás
+> Ha $y_1$ és $y_2$ növekvő, akkor a homogén lineáris differenciálegyenlet $Z=\alpha Y_1+\beta Y_2$ is növekvő.
+
+> [!thessis] Tétel
+> $y'=a(x)y$ egyenlet megoldása vektortér. Ez a vektortér 1D-s.
 ### Inhomogén lineáris differenciálegyenlet
 Ha $b(x)≠0$.
 $$y'=ay+b\quad a(x);\quad b(x)$$

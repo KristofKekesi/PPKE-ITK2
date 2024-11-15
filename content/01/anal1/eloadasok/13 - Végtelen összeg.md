@@ -24,7 +24,7 @@ $$q\in\mathbb{R}\backslash\{0\}\quad\quad n\in\mathbb{N}$$
 $$\sum_{n=1}^\infty{q^{n-1}}$$
 > [!example]- Mértani sor, $q≠1$
 > $$s_n=1+q+q^2+…+q^{n-1}=\frac{1-q^n}{1-q}$$
-> Ezért:
+> **Ezért**:
 > $$\lim_{n\to\infty}{s_n}=\frac{1}{1-q}\quad\text{ha}\quad|q|<1$$
 > $$\lim_{n\to\infty}{s_n}=\infty\quad\text{ha}\quad q\geq1$$
 > $$\lim_{n\to\infty}{s_n}=\beta\quad\text{ha}\quad q\leq-1$$

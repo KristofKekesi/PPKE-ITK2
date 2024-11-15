@@ -15,7 +15,8 @@ $$f((1-t)x_1+x_2)\leq(1-t)f(x_1)+tf(x_2)\quad\quad t\in[0,1].$$
 Mindig monoton növő.
 ### Konkáv
 $f$ függvény konkáv, ha $-f$ [[07 - Függvények 5.#Konvex|konvex]] az adott intervallumon.
-**Másszóval:**
+
+**Más szóval:**
 - A függvény bármely két pontját ha összekötjük, a szakaszuk a függvény alatt lesz.
 ### Konkáv függvény deriváltja
 Mindig monoton csökkenő.

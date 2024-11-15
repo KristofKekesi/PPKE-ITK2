@@ -16,7 +16,7 @@ $$\lim_{n\to\infty}{x_n}=x_0\text{,}\quad\text{teljesül, hogy}$$
 $$\lim_{x\to\infty}{f(x_n)}=f(x_0).$$
 - Ekvivalens a [[#Folytonosság [ 1]|folytonosság]]gal (bizonyítás az [[Analízis 1. (2023).pdf#page=78|Analízis 1. Jegyzet 72. oldalán]])
 ## Függvény határérték [^3]
-Adott $f$ függvény és $x_0\in\mathbb{R}$. Tegyük fel, hogy van olyan $U=(x_0-r, x_0+r)$ környezet, melyre $x_0$ kivételével minden eleme benne van az $f$ függvény értékkészletében. Másszóval:
+Adott $f$ függvény és $x_0\in\mathbb{R}$. Tegyük fel, hogy van olyan $U=(x_0-r, x_0+r)$ környezet, melyre $x_0$ kivételével minden eleme benne van az $f$ függvény értékkészletében. Más szóval:
 $$x_0\in\mathbb{R}\quad\quad\exists U=(x_0-r,x_0+r)\quad\quad\forall x\in U\backslash\{x_0\}\quad\quad x\in D_f.$$
 Az $f$ függvény határértéke $A$, ha minden $\varepsilon$ nagyobb nullánál, és minden $\varepsilon$-hoz létezik $\delta$, ami nagyobb mint nulla, melyekre
 $$0<|x-x_0|<\delta,\quad\quad x\in D\Rightarrow|f(x)-A|<\varepsilon$$

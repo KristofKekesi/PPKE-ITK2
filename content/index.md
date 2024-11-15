@@ -1,6 +1,7 @@
 Legutóbbi módosítás: <span id="gitops-date">gitops:dátum</span>
 # Mi ez itt?
 Kékesi Kristóf vagyok, 2023 szeptemberében kezdtem meg a felsőoktatási tanulmányaimat a Pázmány Péter Katolikus Egyetem Információs Technológiai és Bionikai karán.
+
 Ez a repo a jegyzeteimet (illetve felsőbb évesektől örökölt anyagokat) tartalmazza. Fontos, hogy a repot [Obsidian](https://www.obsidian.md)-nal nézd meg, hogy minden funkcióját ki tudd használni.
 # Hasznos információk
 - [Telefonkönyv](https://itk.ppke.hu/telefonkonyv)
